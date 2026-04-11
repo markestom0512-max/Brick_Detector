@@ -1,5 +1,0 @@
-train: C:/Fichiers python/OpenCv/dataset/Label-studio/train/images
-val: C:/Fichiers python/OpenCv/dataset/Label-studio/val/images
-nc: 1
-names:
-  - lego

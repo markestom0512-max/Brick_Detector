@@ -1,0 +1,5 @@
+train: A:/Claude Code/OpenCv/dataset/Batch 2/train/images
+val: A:/Claude Code/OpenCv/dataset/Batch 2/val/images
+nc: 1
+names:
+  - lego

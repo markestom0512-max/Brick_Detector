@@ -1,0 +1,5 @@
+train: C:/Fichiers python/OpenCv/dataset/train/images
+val:   C:/Fichiers python/OpenCv/dataset/val/images 
+nc: 1
+names:
+  - lego

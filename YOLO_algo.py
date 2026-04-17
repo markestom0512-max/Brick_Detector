@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2 as cv
 
-model = YOLO(r"C:\Users\marke\AppData\Local\Programs\Microsoft VS Code\runs\detect\lego_v16\weights\best.pt") 
+model = YOLO(r"A:\Claude Code\OpenCv\runs\detect\lego_nano_v12\weights\best.pt") 
 
 def filtrage(frame, resultats, confiance_min=0.5):
     for r in resultats:
